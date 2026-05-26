@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\",
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\nilson3\\projetoweb3\\webapplication1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\3mtec\\desktop\\pnilson3\\projetoweb3\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ColaboradorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repository\\ColaboradorRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
               "RelativeToolTip": "WebApplication1\\Repository\\ColaboradorRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwB0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwL4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T12:19:55.115Z",
               "EditorCaption": ""
@@ -73,61 +73,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IColaboradorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
               "RelativeToolTip": "WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T12:10:27.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwNEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:40:05.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-08T12:15:47.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-12T11:25:14.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
               "RelativeToolTip": "WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SituacaoConstante.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,23 +108,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ColaboradorTipoConstante.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T11:19:09.69Z"
+              "WhenOpened": "2026-05-12T11:19:09.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:15:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T12:15:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T11:25:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:40:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Colaborador.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Colaborador.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Colaborador.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA5wBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,27 +183,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\nilson3\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Cliente.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T12:17:37.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\PNilson3\\Projetoweb3\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T12:15:20.866Z"
             }
           ]
         }

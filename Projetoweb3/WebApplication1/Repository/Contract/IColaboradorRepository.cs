@@ -1,4 +1,5 @@
 ﻿using WebApplication1.Models;
+using X.PagedList;
 
 public interface IColaboradorRepository
 {
