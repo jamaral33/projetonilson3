@@ -21,3 +21,4 @@ public interface IColaboradorRepository
 
     IPagedList<Colaborador> ObterTodosColaboradores(int? pagina);
 }
+
