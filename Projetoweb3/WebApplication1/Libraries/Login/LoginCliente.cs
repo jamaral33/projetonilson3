@@ -32,5 +32,9 @@ namespace WebApplication1.Libraries.Login
                 return null;
             }
         }
+        public void Logout()
+        {
+            _sessao.RemoverTodos();
+        }
     }
 }
