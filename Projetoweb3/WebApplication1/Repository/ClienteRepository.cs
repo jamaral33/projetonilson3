@@ -8,10 +8,23 @@ using X.PagedList;
 
 namespace WebApplication1.Repository
 {
+<<<<<<< HEAD
     public class ClienteRepository(IConfiguration conf) : IClienteRepository
     {
         private readonly string _conexaoMySql = conf.GetConnectionString("ConexaoMySql");
         IConfiguration _config = conf;
+=======
+    public class ClienteRepository : IClienteRepository
+    {
+        private readonly string _conexaoMySql;
+        IConfiguration _config;
+
+        public ClienteRepository(IConfiguration conf)
+        {
+            _conexaoMySql = conf.GetConnectionString("ConexaoMySql");
+            _config = conf;
+        }
+>>>>>>> 64309fa5bb016cb7f8069abf670c5af2ec60790a
 
         public void Atualizar(Cliente cliente)
         {

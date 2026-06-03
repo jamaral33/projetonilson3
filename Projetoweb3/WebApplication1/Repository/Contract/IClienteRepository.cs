@@ -1,7 +1,10 @@
 ﻿using System.Threading.Tasks;
+<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 using System.Linq;
+=======
+>>>>>>> 64309fa5bb016cb7f8069abf670c5af2ec60790a
 using WebApplication1.Models;
 using X.PagedList;
 

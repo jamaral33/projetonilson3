@@ -46,12 +46,15 @@ namespace WebApplication1.Controllers
             return View();
         }
 
+<<<<<<< HEAD
         public IActionResult LogoutCliente()
         {
             _loginCliente.Logout();
             return RedirectToAction(nameof(Login));
         }
 
+=======
+>>>>>>> 64309fa5bb016cb7f8069abf670c5af2ec60790a
         public IActionResult Index()
         {
             return View();

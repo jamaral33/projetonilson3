@@ -13,9 +13,12 @@
     <PackageReference Include="X.PagedList.Mvc.Core" Version="10.5.9" />
   </ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <Folder Include="Areas\Colaborador\Data\" />
     <Folder Include="Areas\Colaborador\Models\" />
   </ItemGroup>
 
+=======
+>>>>>>> 64309fa5bb016cb7f8069abf670c5af2ec60790a
 </Project>
