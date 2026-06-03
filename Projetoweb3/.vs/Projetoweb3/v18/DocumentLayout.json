@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\libraries\\sessao\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\libraries\\sessao\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\constantes\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|c:\\users\\lenovo\\downloads\\projetonilson3-main\\projetonilson3-main\\projetoweb3\\webapplication1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9852B-DA8E-4E9E-AFA2-43C550196405}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T22:04:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginColaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Libraries\\Login\\LoginColaborador.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeToolTip": "WebApplication1\\Libraries\\Login\\LoginColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Login\\LoginCliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Libraries\\Login\\LoginCliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Login\\LoginCliente.cs",
+              "RelativeToolTip": "WebApplication1\\Libraries\\Login\\LoginCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Sessao\\Sessao.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Libraries\\Sessao\\Sessao.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Libraries\\Sessao\\Sessao.cs",
+              "RelativeToolTip": "WebApplication1\\Libraries\\Sessao\\Sessao.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Contract\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SituacaoConstante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Constantes\\SituacaoConstante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColaboradorTipoConstante.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAMBdwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T22:04:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T22:04:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\ColaboradorRepository.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwL4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Colaborador.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Colaborador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\projetoNilson3-main\\projetoNilson3-main\\Projetoweb3\\WebApplication1\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Cliente.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T22:04:10.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
